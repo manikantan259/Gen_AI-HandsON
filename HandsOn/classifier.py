@@ -5,7 +5,7 @@ from groq import Groq
 
 # CONFIG
 
-client = Groq(api_key="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")
+client = Groq(api_key="g")
 
 app = FastAPI(title="LLM Hands-on API")
 
@@ -128,3 +128,4 @@ JSON:
 @app.get("/")
 def health():
     return {"status": "API running"}
+
