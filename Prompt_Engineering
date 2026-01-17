@@ -1,0 +1,15 @@
+You are a [ROLE].
+
+Your task is to [TASK].
+
+Context:
+[WHY / WHO / WHERE]
+
+Input:
+[DATA / QUESTION]
+
+Output format:
+[FORMAT]
+
+Constraints:
+[RULES / LIMITS]
